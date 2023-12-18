@@ -27,7 +27,7 @@
       "name": "ChestX-Ray-Classification",
       "createdAt": "2023-09-03T16:47:38Z",
       "url": "https://github.com/Shreyans06/ChestX-Ray-Classification",
-      "description": "Classification of Chest X-Ray images based on gender , age",
+      "description": "Classification of Chest X-Ray images based on gender,age",
       "isFork": false,
       "languages": [
         {

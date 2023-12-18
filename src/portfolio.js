@@ -391,9 +391,9 @@ const degrees = {
       alt_name: "ASU , Tempe",
       duration: "2022 - 2024",
       descriptions: [
-        "⚡ I have studied subjects related to AI and machine learning",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I studied subjects related to AI and machine learning",
+        "⚡ In addition to the aforementioned, I have undertaken courses in Algorithms, Cloud Computing , Image and Video Processing",
+        "⚡ My current CGPA : 3.89",
       ],
       website_link: "https://www.asu.edu/",
       transcript_link:
@@ -406,9 +406,9 @@ const degrees = {
       alt_name: "Visvesvaraya Technological University",
       duration: "2016 - 2020",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ I studied basic software engineering subjects like DS, Algorithms, DBMS, OS, AI etc.",
+        "⚡ Volunteered enthusiastically at various college events and festivals, fostering a vibrant and inclusive campus community.",
+        "⚡ My Overall CGPA : 7.75",
       ],
       website_link: "https://vtu.ac.in/en/",
       transcript_link:
@@ -420,11 +420,74 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Neural Networks and Deep Learning",
+      title: "Qiskit Global Summer School 2023",
+      subtitle: "- IBM Qiskit",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/91595da4-ba10-4df3-ac29-14548e7e38dd/public_url",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "Mathematics for Machine Learning: Linear Algebra",
+      subtitle: "- David Dye",
+      logo_path: "imperial_college.png",
+      certificate_link:
+        "https://coursera.org/share/914b12b1dc6a9a6353d971ad24e9e833",
+      alt_name: "imperial college london",
+      color_code: "#44a3fc",
+    },
+    {
+      title: "IBM Quantum Challenge Africa 2021 - Advanced",
+      subtitle: "- IBM Qiskit",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/a29b6cf8-d27b-4d71-ab7c-bc78407e8c2f/public_url",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "Qiskit Global Summer School 2021",
+      subtitle: "- IBM Qiskit",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/10mdejzCoTe6fqV3eGETdBXy1HhjtZlWN/view?usp=sharing",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "IBM Quantum Challenge 2021 - Foundational",
+      subtitle: "- IBM Qiskit",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/b9c0679e-4e2e-43e1-a55f-46c2bb1d776b/public_url",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "Microsoft Certified: Azure Fundamentals",
+      subtitle: "- Microsoft",
+      logo_path: "microsoft_logo.png",
+      certificate_link:
+        "https://learn.microsoft.com/en-us/users/shreyansjain/transcript/vpl2xa24zm29rk6",
+      alt_name: "Google",
+      color_code: "#D83B0199",
+    },
+    {
+      title: "Convolutional Neural Network",
       subtitle: "- Andrew Ng",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://coursera.org/share/8d0637718379bb48a4b064945ea68c8b",
+        "https://coursera.org/share/bf751640b37802507c7e9d6b68db12dc",
+      alt_name: "deeplearning.ai",
+      color_code: "#00000099",
+    },
+    {
+      title: "Structuring Machine Learning Projects",
+      subtitle: "- Andrew Ng",
+      logo_path: "deeplearning_ai_logo.png",
+      certificate_link:
+        "https://coursera.org/share/0d34f3819d2d5f58e1ff872b1dab3deb",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -439,76 +502,13 @@ const certifications = {
       color_code: "#00000099",
     },
     {
-      title: "Structuring Machine Learning Projects",
+      title: "Neural Networks and Deep Learning",
       subtitle: "- Andrew Ng",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://coursera.org/share/0d34f3819d2d5f58e1ff872b1dab3deb",
+        "https://coursera.org/share/8d0637718379bb48a4b064945ea68c8b",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
-    },
-    {
-      title: "Convolutional Neural Network",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://coursera.org/share/bf751640b37802507c7e9d6b68db12dc",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Mathematics for Machine Learning: Linear Algebra",
-      subtitle: "- David Dye",
-      logo_path: "imperial_college.png",
-      certificate_link:
-        "https://coursera.org/share/914b12b1dc6a9a6353d971ad24e9e833",
-      alt_name: "imperial college london",
-      color_code: "#44a3fc",
-    },
-    {
-      title: "Microsoft Certified: Azure Fundamentals",
-      subtitle: "- Microsoft",
-      logo_path: "microsoft_logo.png",
-      certificate_link:
-        "https://learn.microsoft.com/en-us/users/shreyansjain/transcript/vpl2xa24zm29rk6",
-      alt_name: "Google",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "IBM Quantum Challenge 2021 - Foundational",
-      subtitle: "- IBM Qiskit",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.credly.com/badges/b9c0679e-4e2e-43e1-a55f-46c2bb1d776b/public_url",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "IBM Quantum Challenge Africa 2021 - Advanced",
-      subtitle: "- IBM Qiskit",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.credly.com/badges/a29b6cf8-d27b-4d71-ab7c-bc78407e8c2f/public_url",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Qiskit Global Summer School 2023",
-      subtitle: "- IBM Qiskit",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.credly.com/badges/91595da4-ba10-4df3-ac29-14548e7e38dd/public_url",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Qiskit Global Summer School 2021",
-      subtitle: "- IBM Qiskit",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/10mdejzCoTe6fqV3eGETdBXy1HhjtZlWN/view?usp=sharing",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
     },
     // {
     //   title: "Big Data",
@@ -588,9 +588,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work and Internship",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I've worked on machine learning and deep learning projects. With a rich blend of academic and professional experiences, I'm poised to bring a practical approach to new challenges.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -598,37 +598,26 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          title: "Application Development Analyst",
+          company: "Accenture Solutions Pvt Ltd ",
+          company_url: "https://www.accenture.com/us-en",
+          logo_path: "accenture_logo.png",
+          duration: "June 2022 - August 2022",
+          location: "Bengaluru , India",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
+            "I conducted an in-depth literature review on bias mitigation techniques in facial detection algorithms, leading to the design and implementation of a Python pipeline utilizing semi-supervised variational autoencoders.",
+          color: "#a100fe",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          title: "Application Development Associate",
+          company: "Accenture Solutions Pvt Ltd ",
+          company_url: "https://www.accenture.com/us-en",
+          logo_path: "accenture_logo.png",
+          duration: "November 2020 - May 2022",
+          location: "Bengaluru , India",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-          color: "#9b1578",
-        },
-        {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
+            "I completed a deep learning course with a 95% score, contributing expertise to internal projects and research initiatives.",
+          color: "#a100fe",
         },
       ],
     },
@@ -636,38 +625,15 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
+          title: "Engineer Intern",
+          company: "NETSCOUT Systems Software India Pvt Ltd",
+          company_url: "https://www.netscout.com/",
+          logo_path: "netscout_logo.png",
+          duration: "July 2019 - August 2019",
+          location: "Bengaluru , India",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
-          color: "#000000",
-        },
-        {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
-          description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-          color: "#ee3c26",
-        },
-        {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
-          description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
+            "I developed a robust solution for analyzing and detecting outliers in data from various sensors. My responsibilities included data pre-processing, feature extraction, and the application of clustering algorithms for outlier detection.",
+          color: "#97d700",
         },
       ],
     },
@@ -678,7 +644,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "Passionate about spearheading innovative projects, I specialize in developing models for diverse deep learning and statistical applications . My overarching goal is to create scalable and production-ready systems deployable through cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -738,9 +704,9 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "shreyans_ai_1.png",
+    profile_image_path: "shreyans_ai.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am open to collaborating on intriguing projects in deep learning. Feel free to reach out to me through any of my social media platforms, and I will respond promptly.",
   },
   blogSection: {
     title: "Blogs",
