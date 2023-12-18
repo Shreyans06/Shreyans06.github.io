@@ -54,6 +54,22 @@ class DegreeCard extends Component {
                   </p>
                 );
               })}
+              {degree.transcript_link && (
+                <a
+                  href={degree.transcript_link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <div
+                    className="visit-btn"
+                    style={{ backgroundColor: theme.headerColor }}
+                  >
+                    <p className="btn" style={{ color: theme.text }}>
+                      View Transcipt
+                    </p>
+                  </div>
+                </a>
+              )}
               {degree.website_link && (
                 <a
                   href={degree.website_link}
