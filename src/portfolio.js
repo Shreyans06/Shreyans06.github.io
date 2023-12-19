@@ -704,7 +704,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "shreyans_ai.png",
+    profile_image_path: "shreyans.png",
     description:
       "I am open to collaborating on intriguing projects in deep learning. Feel free to reach out to me through any of my social media platforms, and I will respond promptly.",
   },
