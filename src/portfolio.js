@@ -26,7 +26,8 @@ const greeting = {
     "Eager to push the boundaries of innovation and embrace continuous learning in the ever-evolving technology landscape. Enthusiastic about deep learning and quantum computing with a drive for staying at the forefront of advancements in these fields",
   resumeLink:
     "https://drive.google.com/file/d/1FOWCe7uo27uljAPW2XeCgquM7t75tTaj/view",
-  portfolio_repository: "https://github.com/Shreyans06/masterPortfolio",
+  portfolio_repository:
+    "https://github.com/Shreyans06/BERT-Stock-Direction-Prediction-using-news",
   githubProfile: "https://github.com/Shreyans06",
 };
 
