@@ -606,7 +606,7 @@ const experience = {
           duration: "June 2022 - August 2022",
           location: "Bengaluru , India",
           description:
-            "I conducted an in-depth literature review on bias mitigation techniques in facial detection algorithms, leading to the design and implementation of a Python pipeline utilizing semi-supervised variational autoencoders.",
+            "I conducted an extensive literature review focused on exploring effective techniques for mitigating biases in facial detection algorithms. Subsequently, I implemented a Python pipeline, strategically incorporating the concept of semi-supervised variational auto-encoders. This innovative approach allowed me to delve into the intricacies of bias discovery within the dataset. By leveraging learned latent features, I gained valuable insights into the underlying biases and comprehensively understood the nuances of feature representations. This hands-on experience not only honed my technical skills but also heightened my awareness of the critical importance of addressing biases in machine learning applications, particularly in facial detection algorithms.",
           color: "#a100fe",
         },
         {
@@ -617,7 +617,7 @@ const experience = {
           duration: "November 2020 - May 2022",
           location: "Bengaluru , India",
           description:
-            "I completed a deep learning course with a 95% score, contributing expertise to internal projects and research initiatives.",
+            "I effectively managed a Java backend using Spring and Spring Boot, implementing robust systems for the efficient handling of student data. Through strategic optimizations, I significantly enhanced data retrieval speed, contributing to a more streamlined and responsive backend infrastructure. Additionally, I demonstrated my commitment to academic excellence by securing an impressive 95% in a deep learning course offered as part of an upskilling program at Accenture. This achievement not only showcased my strong theoretical foundation but also equipped me with practical skills and applied expertise. Leveraging this knowledge, I actively contributed to internal projects, demonstrating the seamless integration of theoretical concepts into real-world applications within the dynamic field of deep learning.",
           color: "#a100fe",
         },
       ],
@@ -633,7 +633,7 @@ const experience = {
           duration: "July 2019 - August 2019",
           location: "Bengaluru , India",
           description:
-            "I developed a robust solution for analyzing and detecting outliers in data from various sensors. My responsibilities included data pre-processing, feature extraction, and the application of clustering algorithms for outlier detection.",
+            "I developed a robust solution focused on analyzing and detecting outliers in data received from various sensors. The process involved a systematic approach, beginning with comprehensive data pre-processing to ensure the quality and relevance of the dataset. Following this, I conducted intricate feature extraction, identifying key variables essential for the subsequent analysis. To enhance the outlier detection process, I employed two diverse clustering algorithms, namely Kmeans and DBSCAN. Leveraging the strengths of Kmeans for centroid-based clustering and DBSCAN for density-based clustering, the solution offered a comprehensive and accurate identification of outliers within the dataset. This meticulous approach not only showcased my proficiency in data analysis but also demonstrated a strategic utilization of different clustering techniques to address the specific challenges posed by outlier detection in sensor data.",
           color: "#97d700",
         },
       ],
