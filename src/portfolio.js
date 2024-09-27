@@ -25,9 +25,8 @@ const greeting = {
   subTitle:
     "Eager to push the boundaries of innovation and embrace continuous learning in the ever-evolving technology landscape. Enthusiastic about deep learning and quantum computing with a drive for staying at the forefront of advancements in these fields",
   resumeLink:
-    "https://drive.google.com/file/d/1FOWCe7uo27uljAPW2XeCgquM7t75tTaj/view",
-  portfolio_repository:
-    "https://github.com/Shreyans06/BERT-Stock-Direction-Prediction-using-news",
+    "https://drive.google.com/file/d/1GfocKskVKmLjULZJETEtZdSljI020pE1/view?usp=drive_link",
+  portfolio_repository: "https://github.com/Shreyans06/LANGCHAIN-DEMO",
   githubProfile: "https://github.com/Shreyans06",
 };
 
@@ -394,11 +393,11 @@ const degrees = {
       descriptions: [
         "⚡ I studied subjects related to AI and machine learning",
         "⚡ In addition to the aforementioned, I have undertaken courses in Algorithms, Cloud Computing , Image and Video Processing",
-        "⚡ My current CGPA : 3.89",
+        "⚡ My current CGPA : 3.90",
       ],
       website_link: "https://www.asu.edu/",
       transcript_link:
-        "https://drive.google.com/file/d/1GfocKskVKmLjULZJETEtZdSljI020pE1/view?usp=sharing",
+        "https://drive.google.com/file/d/1GfocKskVKmLjULZJETEtZdSljI020pE1/view?usp=drive_link",
     },
     {
       title: "Visvesvaraya Technological University",
