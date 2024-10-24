@@ -60,7 +60,7 @@ const socialMediaLinks = [
   // },
   {
     name: "Gmail",
-    link: "mailto:snola136@asu.edu",
+    link: "mailto:shreyanskjain06@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -602,7 +602,7 @@ const experience = {
           company: "Accenture Solutions Pvt Ltd ",
           company_url: "https://www.accenture.com/us-en",
           logo_path: "accenture_logo.png",
-          duration: "June 2022 - August 2022",
+          duration: "June 2022 - September 2022",
           location: "Bengaluru , India",
           description:
             "I conducted an extensive literature review focused on exploring effective techniques for mitigating biases in facial detection algorithms. Subsequently, I implemented a Python pipeline, strategically incorporating the concept of semi-supervised variational auto-encoders. This innovative approach allowed me to delve into the intricacies of bias discovery within the dataset. By leveraging learned latent features, I gained valuable insights into the underlying biases and comprehensively understood the nuances of feature representations. This hands-on experience not only honed my technical skills but also heightened my awareness of the critical importance of addressing biases in machine learning applications, particularly in facial detection algorithms.",
